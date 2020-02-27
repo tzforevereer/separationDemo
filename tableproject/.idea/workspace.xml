@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38b2716a-58e4-4baa-8988-16018be5334b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="customer_db@39.96.89.189" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="customer_db@39.96.89.189" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="customer_db@39.96.89.189" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="customer_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="customer_db@39.96.89.189" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="customer_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="customer_table: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YN0JHkxw1jBHM5fbdIzlbft1X5" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myblog" />
+    <property name="settings.editor.selected.configurable" value="com.sjhy.plugin.ui.TemplateSettingPanel" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="TableprojectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tableproject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tian.TableprojectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38b2716a-58e4-4baa-8988-16018be5334b" name="Default Changelist" comment="" />
+      <created>1582767671023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582767671023</updated>
+      <workItem from="1582767675745" duration="1812000" />
+      <workItem from="1582772082031" duration="2991000" />
+      <workItem from="1582780741870" duration="28000" />
+      <workItem from="1582782859701" duration="5417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582772230144">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="344" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1846.1080@0.0.1846.1080" timestamp="1582772230144" />
+    <state x="653" y="316" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582772336431">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="653" y="316" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1846.1080@0.0.1846.1080" timestamp="1582772336431" />
+    <state x="703" y="295" key="FileChooserDialogImpl" timestamp="1582780750649">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="703" y="295" key="FileChooserDialogImpl/0.0.1846.1080@0.0.1846.1080" timestamp="1582780750649" />
+    <state width="1877" height="366" key="GridCell.Tab.0.bottom" timestamp="1582802233487">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.0.bottom/0.0.1846.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1582802233487" />
+    <state width="1803" height="446" key="GridCell.Tab.0.bottom/0.0.1846.1080@0.0.1846.1080" timestamp="1582783382764" />
+    <state width="1877" height="366" key="GridCell.Tab.0.center" timestamp="1582802233487">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.0.center/0.0.1846.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1582802233487" />
+    <state width="1803" height="446" key="GridCell.Tab.0.center/0.0.1846.1080@0.0.1846.1080" timestamp="1582783382764" />
+    <state width="1877" height="366" key="GridCell.Tab.0.left" timestamp="1582802233487">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.0.left/0.0.1846.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1582802233487" />
+    <state width="1803" height="446" key="GridCell.Tab.0.left/0.0.1846.1080@0.0.1846.1080" timestamp="1582783382763" />
+    <state width="1877" height="366" key="GridCell.Tab.0.right" timestamp="1582802233487">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.0.right/0.0.1846.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1582802233487" />
+    <state width="1803" height="446" key="GridCell.Tab.0.right/0.0.1846.1080@0.0.1846.1080" timestamp="1582783382764" />
+    <state width="1877" height="366" key="GridCell.Tab.1.bottom" timestamp="1582802233487">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.1.bottom/0.0.1846.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1582802233487" />
+    <state width="1803" height="446" key="GridCell.Tab.1.bottom/0.0.1846.1080@0.0.1846.1080" timestamp="1582783382764" />
+    <state width="1877" height="366" key="GridCell.Tab.1.center" timestamp="1582802233487">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.1.center/0.0.1846.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1582802233487" />
+    <state width="1803" height="446" key="GridCell.Tab.1.center/0.0.1846.1080@0.0.1846.1080" timestamp="1582783382764" />
+    <state width="1877" height="366" key="GridCell.Tab.1.left" timestamp="1582802233487">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.1.left/0.0.1846.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1582802233487" />
+    <state width="1803" height="446" key="GridCell.Tab.1.left/0.0.1846.1080@0.0.1846.1080" timestamp="1582783382764" />
+    <state width="1877" height="366" key="GridCell.Tab.1.right" timestamp="1582802233487">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.1.right/0.0.1846.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1582802233487" />
+    <state width="1803" height="446" key="GridCell.Tab.1.right/0.0.1846.1080@0.0.1846.1080" timestamp="1582783382764" />
+    <state x="424" y="182" key="SettingsEditor" timestamp="1582772295514">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="424" y="182" key="SettingsEditor/0.0.1846.1080@0.0.1846.1080" timestamp="1582772295514" />
+    <state x="603" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1582782876835">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="603" y="364" key="com.intellij.ide.util.TipDialog/0.0.1846.1080@0.0.1846.1080" timestamp="1582782876835" />
+  </component>
+</project>
